@@ -4,7 +4,7 @@ Este é um projeto simples para gerenciar um sorteio de amigo secreto. Ele permi
 
 ✨ Funcionalidades
 
-      📌 Adicionar amigos à lista (mínimo de 3 caracteres, sem números e sem nomes duplicados).
+     📌 Adicionar amigos à lista (mínimo de 3 caracteres, sem números e sem nomes duplicados).
 
      🔍 Exibir a lista de amigos adicionados.
 
